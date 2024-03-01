@@ -1,7 +1,7 @@
 # Youtube subscribers and views counter
 This is a simple Youtube subscribers and views counter with display and transitions (no welding needed).
 
-Quick process in this <a href="[https://www.example.com/my great page](https://www.youtube.com/shorts/g0ehBt4aU3M)">Youtube short</a> :)
+Quick process in this [Youtube short](https://www.youtube.com/shorts/g0ehBt4aU3M) :)
 
 ## Material
 * 1x OLED Display 128x32
