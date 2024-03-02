@@ -1,5 +1,5 @@
 # Youtube subscribers and views counter
-This is a simple Youtube subscribers and views counter with display and transitions (no welding needed).
+This is a simple Youtube subscribers and views counter with display and transitions (no welding needed) for ESP32.
 
 Quick process in this <a href="https://www.youtube.com/shorts/g0ehBt4aU3M" target="_blank">Youtube Short</a> :)
 
